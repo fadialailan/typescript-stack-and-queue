@@ -1,0 +1,15 @@
+{
+  "name": "typescript-stack-and-queue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "build": "tsc index.ts && node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fadi Alailan",
+  "license": "AGPL-3.0-or-later",
+  "devDependencies": {
+    "typescript": "^4.8.3"
+  }
+}
